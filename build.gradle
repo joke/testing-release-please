@@ -5,7 +5,7 @@ plugins {
 
 group 'org.example'
 
-println("@@@@@@@@@2 Building version ${version}")
+println("@@@@@@@@@3 Building version ${version}")
 
 repositories {
     mavenCentral()
