@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.example'
-version semver.version
+version rootProject.version
 
 println("@@@@@@@@@2 Building version ${version}")
 
