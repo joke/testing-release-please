@@ -6,7 +6,7 @@ plugins {
 group 'org.example'
 version semver.version
 
-println("@@@@@@@@@ Building version ${version}")
+println("@@@@@@@@@1 Building version ${version}")
 
 repositories {
     mavenCentral()
