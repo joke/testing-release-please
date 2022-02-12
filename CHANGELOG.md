@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/joke/testing-release-please/compare/v1.1.0...v1.2.0) (2022-02-12)
+
+
+### Features
+
+* pipeline ([32f5b86](https://github.com/joke/testing-release-please/commit/32f5b86278c0a46cd316634e307a2c7de1d8b142))
+
 ## [1.1.0](https://github.com/joke/testing-release-please/compare/v1.0.0...v1.1.0) (2022-02-12)
 
 
