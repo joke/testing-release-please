@@ -12,3 +12,12 @@ jobs:
     - uses: GoogleCloudPlatform/release-please-action@v3.1
       with:
         release-type: simple
+    - uses: actions/checkout@v2.4.0
+    - uses: actions/setup-java@v2
+      if: ${{ steps.release.outputs.release_created }}          
+      with:
+        java-version: 8
+        distribution: zulu
+    - name: build
+      if: ${{ steps.release.outputs.release_created }}          
+      run: ./gradlew check
