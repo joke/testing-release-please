@@ -19,6 +19,6 @@ jobs:
       with:
         java-version: 8
         distribution: zulu
-    - name: build
+    - name: publish
       if: ${{ steps.release.outputs.release_created }}          
       run: ./gradlew check
