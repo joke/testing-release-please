@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/joke/testing-release-please/compare/v1.3.0...v1.4.0) (2022-03-18)
+
+
+### Features
+
+* 1 ([892bcd4](https://github.com/joke/testing-release-please/commit/892bcd49fadf75a7ad554b4b5a2aca0345908bfa))
+* 2 ([b9da7b0](https://github.com/joke/testing-release-please/commit/b9da7b098073a026243091cd173d47f48d36c314))
+* 3 ([01defd1](https://github.com/joke/testing-release-please/commit/01defd1a237ee392b2c1a454738ec16e57b14a06))
+* 4 ([06b897a](https://github.com/joke/testing-release-please/commit/06b897a8d74c4253d7f986cc4258e9aade673176))
+
 ## [1.3.0](https://github.com/joke/testing-release-please/compare/v1.2.0...v1.3.0) (2022-02-12)
 
 
